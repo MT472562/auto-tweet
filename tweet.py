@@ -11,7 +11,7 @@ def os():
 
 def tweet_data():
     f = open('tweet_text.txt', 'r')
-    text = f.read()
+    text = f.read()#テキストを読み込むには、ここを変更してください。
     count=len(text)
     
     json_open = open('./code.json', 'r')
