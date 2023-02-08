@@ -6,7 +6,7 @@
 5...フォルダの階層は以下の通りに設置してください。
 
 ./
-    | tweet.exe/   or    tweet/(Unix実行ファイル)
+    | tweet.py (main code)
     | code.json/
     | tweet_text.txt/
 
